@@ -11,7 +11,9 @@ Claude Code用の非公式の無料キットです。Anthropic社とは関係が
 - **Judge**：成果物を検査するエージェント。読む・検索するツールだけを渡してあり、編集とコマンドの実行はできません
 - **Hook**：`judge_records/current_gate.json` が `PASS` でない間、`--publish` や `git push origin main` を止めます
 
-作る役（Builder）、依頼を構造化する `/goal`、Hookの自己テスト、判定基準の雛形は、フル版（有料）に入っています。フル版は準備中です。公開したら、ここにリンクを追記します。
+作る役（Builder）、依頼を構造化する `/goal`、Hookの自己テスト、判定基準の雛形は、フル版（有料）に入っています。フル版はGumroadで販売しています。
+
+https://checkpointlab.gumroad.com/l/judge-gate-kit
 
 ## 入っているもの
 
